@@ -87,6 +87,7 @@ h1 {
   padding: 25px;
 }
 
+h1,
 h2 {
   text-decoration: underline 2px solid black;
 }
