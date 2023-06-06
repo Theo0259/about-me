@@ -47,6 +47,7 @@ nav ul li {
 
 nav ul li:hover {
   background-color: white;
+  color: black;
 }
 
 nav ul li a {
