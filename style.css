@@ -60,7 +60,7 @@ nav ul li a:hover {
 }
 
 .comp,
-.obj {
+.objtf {
   display: flex;
   width: 100%;
   justify-content: space-between;
